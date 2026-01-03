@@ -1,3 +1,3 @@
 # learn
-Trying to lean git hub.
+Trying to learn git hub.
 Hi
